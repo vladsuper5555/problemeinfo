@@ -1,2 +1,3 @@
 # problemeinfo
-Aici sunt problemele de informatica creeate de mine si implementate pe codeforces.com
+
+Aici sunt problemele de informatica create de mine si implementate pe codeforces.com
