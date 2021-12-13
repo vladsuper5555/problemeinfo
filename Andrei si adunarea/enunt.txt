@@ -1,4 +1,5 @@
 Se dau doua numere in baza 2. Calculati si afisati suma lor in baza 10.
+Poveste:
 
 Exemplu:
     Input:
