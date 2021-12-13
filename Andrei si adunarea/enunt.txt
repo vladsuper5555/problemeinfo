@@ -1,0 +1,12 @@
+Se dau doua numere in baza 2. Calculati si afisati suma lor in baza 10.
+
+Exemplu:
+    Input:
+    10 101
+
+    Output:
+    7
+
+    Explicatie:
+
+    10 + 101 = 111(baza 2) = 7 (baza 10);
