@@ -1,7 +1,8 @@
-Se dau doua numere in baza 2. Calculati si afisati suma lor in baza 10.
-Poveste:
+Andrei a invatat la ora de informatica despre operatiile pe biti. Acesta dorind sa aprofundeze materia doreste sa faca adunarea a doua numere
+reprezentate in baza 2. Din pacate Andrei este incapabil sa isi rezolve problema pusa asa ca va roaga pe voi sa o rezolvati.
 
-Exemplu:
+Se dau doua numere in baza 2. Calculati si afisati suma lor in baza 10.
+
     Input:
     10 101
 
